@@ -1,0 +1,8 @@
+{
+    "name": "coreroute-service",
+    "version": "1.0.931",
+    "private": false,
+    "environment": "production",
+    "build_id": 909,
+    "allow_public_access": true
+}
